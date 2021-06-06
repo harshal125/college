@@ -1,0 +1,17 @@
+.main-div {
+    display: flex;
+    flex-direction: row;
+}
+
+/* .Third-Part {
+    
+} */
+
+.titleBar {
+    background-color: antiquewhite;
+    
+}
+
+.TabSet {
+    align-items: flex-start;
+}
